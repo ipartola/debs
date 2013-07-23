@@ -1,0 +1,24 @@
+Architectures: amd64 i386 armhf source any all
+Codename: custom
+Components: main
+Date: Tue, 23 Jul 2013 14:38:51 UTC
+Description: Igor Partola's personal repo.
+Label: ipartola
+Origin: ipartola
+Suite: custom
+MD5Sum:
+ a61a3cb47b52b5603df9da8de6016fbe             3996 Packages
+ e2b55e216b2af3d5b7ce83fbcfd040e5             1475 Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 Release
+SHA1:
+ 46a7838a144f2432a461fdc76ca25d5dfb584bc1             3996 Packages
+ ead532da8fa8db7500efa0476e823fb94958826b             1475 Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
+SHA256:
+ ad316d60bc88a1d85dd66a6a8491cc75741c6f024ccc2e7239f8e1cafad797a7             3996 Packages
+ 73bc7002612792a244b18132549da91169d9d750f026662efb62915b142db4d9             1475 Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
+SHA512:
+ 3526080679fa72fcf05fa7aac2571594c1623b0ab0921139dae37248578f2e9864299ac7c6734eb747fbfb76dd87c040b2a77c1a53bfcd898936c3a203d9228a             3996 Packages
+ a917dc002d13919c44e163722623c19fe1eb60198b602787b75d466f431566c926aeb2ab3e3f63512b20598224697cb5c6637ff5d326b96179383ac20efe927e             1475 Packages.gz
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Release
