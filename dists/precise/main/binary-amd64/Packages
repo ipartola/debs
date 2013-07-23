@@ -1,0 +1,87 @@
+Package: pam-ssh-agent-auth
+Priority: extra
+Section: admin
+Installed-Size: 128
+Maintainer: Jamie Beverly <soupboy@sourceforge.net>
+Architecture: i386
+Version: 0.9.5-1
+Depends: libc6 (>= 2.8), libpam0g (>= 0.99.7.1), libssl1.0.0 (>= 1.0.0)
+Filename: repo/pam-ssh-agent-auth_0.9.5-1_i386.deb
+Size: 43822
+MD5sum: b52e42a5e600bbc8b1f57d92035b17fd
+SHA1: 0c7d3df0f7f9121a4d0e1ee274c1c18684cd5b21
+SHA256: 47f1f59f7454b0d3a66174e09c9fad1aef8bf80649de855eb13b96ef7b1fd2ac
+SHA512: fb2d4879d162c5881003a03aeb5d03cb2143648b3652ddd6e636abaada13341f69f4371cf0284fa3994457537e18d1c2313225be4b2b2bd8a7b4520fab42a90f
+Description: PAM Authentication via forwarded ssh-agent
+ pam_ssh_agent_auth is a PAM module which permits PAM authentication via your
+ keyring in a forwarded ssh-agent.
+ This module can be used to provide authentication for anything run locally that
+ supports PAM. It was written specifically with the intention of permitting
+ authentication for sudo without password entry, and also has been proven useful
+ for use with su as an alternative to wheel.
+Homepage: http://pamsshagentauth.sf.net/
+
+Package: pam-ssh-agent-auth
+Priority: extra
+Section: admin
+Installed-Size: 133
+Maintainer: Jamie Beverly <soupboy@sourceforge.net>
+Architecture: amd64
+Version: 0.9.5-1
+Depends: libc6 (>= 2.14), libpam0g (>= 0.99.7.1), libssl1.0.0 (>= 1.0.0)
+Filename: repo/pam-ssh-agent-auth_0.9.5-1_amd64.deb
+Size: 43118
+MD5sum: 524ade835fbb8182ecd7e5ec6efb2574
+SHA1: 8d77bfb903ed8a467c711ec6098229f0748f5ff1
+SHA256: a74e64027161cb1a4c0e7e5f0c99d31c2fe32ada8eaf49edbd24d6d98b7c9867
+SHA512: a98b580c0d7701a74d9f207e1ee656eff79c3a816ccd146eae1ee3b2f6eda970490076b14a9ba3e860eeddc95cefca0c324eeb2a3e9dcea5026135c4f999d4fd
+Description: PAM Authentication via forwarded ssh-agent
+ pam_ssh_agent_auth is a PAM module which permits PAM authentication via your
+ keyring in a forwarded ssh-agent.
+ This module can be used to provide authentication for anything run locally that
+ supports PAM. It was written specifically with the intention of permitting
+ authentication for sudo without password entry, and also has been proven useful
+ for use with su as an alternative to wheel.
+Homepage: http://pamsshagentauth.sf.net/
+
+Package: flint
+Priority: extra
+Section: web
+Installed-Size: 136
+Maintainer: Igor Partola <ipartola@gmail.com>
+Architecture: all
+Version: 1.1.4
+Filename: repo/flint_1.1.4_all.deb
+Size: 4906
+MD5sum: 26a24b131237aa1d5f892e22eed81564
+SHA1: 2f71d79aa8b3f939081a7ebc54fcbd0b6b134b95
+SHA256: 080c3b8210b909048ab9a6796ebc7a5447d53a24b26943a98158b8d2ee4c4072
+SHA512: fde0e3e13d4e9f3b0b6e8207aaab23a20e4c2b6099c34158f97762a7bb688382f2b1fc24af0f257741e3c148e186cac7cfcb9fdabe7c8ea0e1cf73f02ac6d1f2
+Description: Automatic manager for Django/flup FastCGI processes
+ Flint works with virtualenv, Django and flup to start/stop
+ FastCGI processes that web servers can connect to.
+Homepage: http://igorpartola.com/flint/
+
+Package: pam-ssh-agent-auth
+Priority: extra
+Section: admin
+Installed-Size: 140
+Maintainer: Jamie Beverly <soupboy@sourceforge.net>
+Architecture: armhf
+Version: 0.9.5-1
+Depends: libc6 (>= 2.13-28), libpam0g (>= 0.99.7.1), libssl1.0.0 (>= 1.0.0)
+Filename: repo/pam-ssh-agent-auth_0.9.5-1_armhf.deb
+Size: 39936
+MD5sum: 6ce2937abb43e4f1c986cb15e8d1c05c
+SHA1: db842506ef20fb8e8ef5b9b325a344d643fcd2f4
+SHA256: 2ad6f78a828bc122aabba04104ad750546617e9b31976b2331f8ac6c47aa8e21
+SHA512: 1818117072db593add25767c8762b9b925f3722367420fdabf7462abd427b0ba36d011fa827a135f89d1d9e142cc50932dbacd1a30bc95398cc96f8f5786339b
+Description: PAM Authentication via forwarded ssh-agent
+ pam_ssh_agent_auth is a PAM module which permits PAM authentication via your
+ keyring in a forwarded ssh-agent.
+ This module can be used to provide authentication for anything run locally that
+ supports PAM. It was written specifically with the intention of permitting
+ authentication for sudo without password entry, and also has been proven useful
+ for use with su as an alternative to wheel.
+Homepage: http://pamsshagentauth.sf.net/
+
