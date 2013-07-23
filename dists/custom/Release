@@ -1,0 +1,40 @@
+Architectures: amd64 i386 armhf source any all
+Codename: custom
+Components: main
+Date: Tue, 23 Jul 2013 15:30:55 UTC
+Description: Igor Partola's personal repo.
+Label: ipartola
+Origin: ipartola
+Suite: custom
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e                0 Release
+ a61a3cb47b52b5603df9da8de6016fbe             3996 main/binary-amd64/Packages
+ e84333991501274de25daec51cd6bd89             1475 main/binary-amd64/Packages.gz
+ a61a3cb47b52b5603df9da8de6016fbe             3996 main/binary-armhf/Packages
+ e84333991501274de25daec51cd6bd89             1475 main/binary-armhf/Packages.gz
+ a61a3cb47b52b5603df9da8de6016fbe             3996 main/binary-i386/Packages
+ e84333991501274de25daec51cd6bd89             1475 main/binary-i386/Packages.gz
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
+ 46a7838a144f2432a461fdc76ca25d5dfb584bc1             3996 main/binary-amd64/Packages
+ 2f235ca94b5fb78b70f5feb5d939c57a603f8876             1475 main/binary-amd64/Packages.gz
+ 46a7838a144f2432a461fdc76ca25d5dfb584bc1             3996 main/binary-armhf/Packages
+ 2f235ca94b5fb78b70f5feb5d939c57a603f8876             1475 main/binary-armhf/Packages.gz
+ 46a7838a144f2432a461fdc76ca25d5dfb584bc1             3996 main/binary-i386/Packages
+ 2f235ca94b5fb78b70f5feb5d939c57a603f8876             1475 main/binary-i386/Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
+ ad316d60bc88a1d85dd66a6a8491cc75741c6f024ccc2e7239f8e1cafad797a7             3996 main/binary-amd64/Packages
+ a5422791337792c41afcb199bb41978e017a03a4a4a48fb45ab732969843331c             1475 main/binary-amd64/Packages.gz
+ ad316d60bc88a1d85dd66a6a8491cc75741c6f024ccc2e7239f8e1cafad797a7             3996 main/binary-armhf/Packages
+ a5422791337792c41afcb199bb41978e017a03a4a4a48fb45ab732969843331c             1475 main/binary-armhf/Packages.gz
+ ad316d60bc88a1d85dd66a6a8491cc75741c6f024ccc2e7239f8e1cafad797a7             3996 main/binary-i386/Packages
+ a5422791337792c41afcb199bb41978e017a03a4a4a48fb45ab732969843331c             1475 main/binary-i386/Packages.gz
+SHA512:
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 Release
+ 3526080679fa72fcf05fa7aac2571594c1623b0ab0921139dae37248578f2e9864299ac7c6734eb747fbfb76dd87c040b2a77c1a53bfcd898936c3a203d9228a             3996 main/binary-amd64/Packages
+ aa2c2de93112110ebc37fef6cd3b43ad5d222060eb61ceda19da32495b754ab1f85994d11ecc85d1cdb7c76bff8ee6151e472b6b68c1e325cdc30cfb99558a98             1475 main/binary-amd64/Packages.gz
+ 3526080679fa72fcf05fa7aac2571594c1623b0ab0921139dae37248578f2e9864299ac7c6734eb747fbfb76dd87c040b2a77c1a53bfcd898936c3a203d9228a             3996 main/binary-armhf/Packages
+ aa2c2de93112110ebc37fef6cd3b43ad5d222060eb61ceda19da32495b754ab1f85994d11ecc85d1cdb7c76bff8ee6151e472b6b68c1e325cdc30cfb99558a98             1475 main/binary-armhf/Packages.gz
+ 3526080679fa72fcf05fa7aac2571594c1623b0ab0921139dae37248578f2e9864299ac7c6734eb747fbfb76dd87c040b2a77c1a53bfcd898936c3a203d9228a             3996 main/binary-i386/Packages
+ aa2c2de93112110ebc37fef6cd3b43ad5d222060eb61ceda19da32495b754ab1f85994d11ecc85d1cdb7c76bff8ee6151e472b6b68c1e325cdc30cfb99558a98             1475 main/binary-i386/Packages.gz
