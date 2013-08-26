@@ -30,11 +30,11 @@ Architecture: amd64
 Version: 0.1
 Depends: libc6 (>= 2.15), libjpeg8 (>= 8c), libv4l-0
 Filename: repo/hawkeye_0.1_amd64.deb
-Size: 184704
-MD5sum: 936171a34e57d916af7b9fe1488b57d0
-SHA1: 22fe3c86d1d832fc53e2ae6b6965be81d952c640
-SHA256: de17639c96211337523229fdf2d583d5a7a0babe38bf234ee3c2488f4d3d9e21
-SHA512: 5af877991b3ee829c1693b78b95199016d07bf93722413584f5142ebe89c9c925f9a8c61e7cd24b88ae0976159c0f72cd0c3b84f17b7f55b23def544610d8111
+Size: 184700
+MD5sum: c5327824a46964209a94b3811627f5be
+SHA1: af34c25f367e6597b19cc5ef1506fa6a115e7f84
+SHA256: 495c049f4a3917c4f6ff000621c162bd3d35ad7ba2ee270e146e7bf9b5d18fc0
+SHA512: 1c2bb195a9f153627234932090affaa73c7767bf83e420937b256586e821e520462d7973739a3d48ca0fba66f74f1ce5d17288c3d6b3dbe9971e446e8960372c
 Description: USB webcam streaming server
  An simple and fast USB webcam MJPEG streaming server.
 
@@ -70,11 +70,11 @@ Architecture: armhf
 Version: 0.1
 Depends: libc6 (>= 2.13-28), libjpeg8 (>= 8c), libv4l-0 (>= 0.5.0)
 Filename: repo/hawkeye_0.1_armhf.deb
-Size: 179744
-MD5sum: d8a9c92f2437cc5545ae271a21d6eeb1
-SHA1: 4bf3523b7fa4c880755c7133356c9a9f447fff2d
-SHA256: 7e7379f96e4f479aed5ec0b1600872202056f59ab0214979460a0e79510b1077
-SHA512: b5b9b987492111a221796050ea482538de6551b767accf178531ddd84c1fc6bc1ca8f116ca7fa50dc24b7b405b3a5151404f65bd9ea2449662bcd248415f604f
+Size: 179790
+MD5sum: dfa0ad3f380546c5fdbd2f6ecb08681d
+SHA1: 93dda16c78984dd32cc493a7b78152590f9df706
+SHA256: 5cbe466fdeee2e8382c7905aa47d2a47d54dbfd072e2190623e3ed12f2b7a5be
+SHA512: 7e760a03ac20dd01fc8996c0ee84f9be457e517a67a91c3889ccbf933fed0deb97ee65aabcc937a3c595a508e0747c716d7584269893fb6dc2241237cf171c1e
 Description: USB webcam streaming server
  An simple and fast USB webcam MJPEG streaming server.
 
@@ -87,11 +87,11 @@ Architecture: i386
 Version: 0.1
 Depends: libc6 (>= 2.15), libjpeg8 (>= 8c), libv4l-0
 Filename: repo/hawkeye_0.1_i386.deb
-Size: 181714
-MD5sum: ac5ac52313f3cae71199f4560d4e8e20
-SHA1: f4e286c773b99ab8b50d80b90b81fcb7123f865b
-SHA256: 903070b272a652c30c80a534d269af9de74f90af92baa4bd3dec6b5fbc2691ae
-SHA512: 206eb6e7fda0124bfde1340c4aed3f0a3002ca993416ab5c8cef5f8f53f76ba7e4eb8fd6b456d23ccc218d145ed0fc0d578e160ed617e7b0d0da505ad4bb5996
+Size: 181726
+MD5sum: 9ed4190604e7c5baf06b0addeafeb2bc
+SHA1: 05c71171bebd09ed7dde1011dc8eeee47d797e16
+SHA256: d8d125f76d3498f570eb0432fbe0c4b6d89ca52502b2ef5f7b170d13ee475244
+SHA512: 7a96d0810f16b70ca5fbab9b4201160f3f468452716f150c3f36802222190a7e1d7edc1c902ab99fd947387fb74bfac4df6f1e9702e05286291ba6c076e09ff5
 Description: USB webcam streaming server
  An simple and fast USB webcam MJPEG streaming server.
 
