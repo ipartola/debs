@@ -24,17 +24,17 @@ Homepage: http://pamsshagentauth.sf.net/
 Package: hawkeye
 Priority: optional
 Section: admin
-Installed-Size: 874
+Installed-Size: 892
 Maintainer: Igor Partola <igor@igorpartola.com>
 Architecture: amd64
 Version: 0.1
 Depends: libc6 (>= 2.15), libjpeg8 (>= 8c), libssl1.0.0 (>= 1.0.0), libv4l-0
 Filename: repo/hawkeye_0.1_amd64.deb
-Size: 210560
-MD5sum: 980e38a86570b87fddecdd1aaae6092f
-SHA1: a9d607dc2dde466d4d037ffc18e35fef88e431e2
-SHA256: 0704da34b18e58b84574cc7b0b187b758cdca666acde1d3c6948d469e7699107
-SHA512: 61a88b2219f864a46df5d928d96f7a0548e24c14034cb5da76776995f78a61c792da7b9393df67c7378e07d40135fd12a247fe28c9bb0c6b4cd7ac370f725902
+Size: 229184
+MD5sum: 0b3348f61195d9b53c40e3d45b0f97fc
+SHA1: 7749a5d3cfac719fc708c1daa3dc9d4ee6358b0e
+SHA256: 483d002cc2fc54987544d0eb41e9a65244a8b4e8d9e2b30dfd1888040a44e774
+SHA512: 8480185c7fd1581b4932ba785c3d287843a88334d053e225abb6f5b8b75531856b7585fcc8d04e1ffd18afa92e875fdcb6c3f864df5873b4d4fee093411b3880
 Description: USB webcam streaming server
  An simple and fast USB webcam MJPEG streaming server.
 
@@ -64,34 +64,34 @@ Homepage: http://pamsshagentauth.sf.net/
 Package: hawkeye
 Priority: optional
 Section: admin
-Installed-Size: 858
+Installed-Size: 877
 Maintainer: Igor Partola <igor@igorpartola.com>
 Architecture: armhf
 Version: 0.1
 Depends: libc6 (>= 2.13-28), libjpeg8 (>= 8c), libssl1.0.0 (>= 1.0.0), libv4l-0 (>= 0.5.0)
 Filename: repo/hawkeye_0.1_armhf.deb
-Size: 203200
-MD5sum: 0f09b1668fd85788d2f4d131449ebeff
-SHA1: fc5c45f524acc36377d536ee2b5692d19a25e66f
-SHA256: 4e1e26aa757f73f7a626cfa01b25c7383dd45a253ed1b0b0e166613d7d23b9cb
-SHA512: bbdda19a481cc135e2b4bc7aa3acef4a6d2bdc84ef274d9c4401e00264c7b95922aaaaa43ef4e71aafb969b6456ff9540a7c745eb2e15040891a6267efc0fa80
+Size: 226808
+MD5sum: 790e49971449c1c0086e7ac29b71a48d
+SHA1: 1bab3b8cb11491cacee36c684099278232f1565e
+SHA256: 9f649e64166770fb02db363c6744340af52eb9b2b96093c9bf5a37cdd445af0f
+SHA512: a541a516545ae5f5c4adda73c4a14c1c0a1567c1c26cb7aee79269a0c8a6f2e501cded3909f6721c218176794e341b3e5180028cda52313807d4c43bf8fc7218
 Description: USB webcam streaming server
  An simple and fast USB webcam MJPEG streaming server.
 
 Package: hawkeye
 Priority: optional
 Section: admin
-Installed-Size: 869
+Installed-Size: 887
 Maintainer: Igor Partola <igor@igorpartola.com>
 Architecture: i386
 Version: 0.1
 Depends: libc6 (>= 2.15), libjpeg8 (>= 8c), libssl1.0.0 (>= 1.0.0), libv4l-0
 Filename: repo/hawkeye_0.1_i386.deb
-Size: 207710
-MD5sum: e3c8551566e87e609cb9f23b0e5af26c
-SHA1: de6c5dc33c14a9cc2dd1eac9e94aa3e137b5259d
-SHA256: 0f10bf527ebcf645d0f0d4803fcae83ad706b681a461a12e0f61efb751d5d9b9
-SHA512: 2f88423f31ef75361bb148a785bce98cc1bd72c6e00dba425493da2c5276f535e647d2862442e678f886855facc8cd5a63dd59f2160aa31f19c4159a2b571e5e
+Size: 227770
+MD5sum: e3b720689f43fdedf0bc47bb8b2e1b6a
+SHA1: 4405903c6d141545a0a72ad50c0c3d2a9e8b1266
+SHA256: f64fcf983122608326f3bdeadb375b9aaa1f2bf93c76f8936db3eff7d7ea39c3
+SHA512: 6c0de05d5af21b87b022220ddef6c05ae44949628b3942914443c52f278261b7ada9ae4745d94b8235b79fd4535e58a28263d5aef2c7a873102487e201d83d81
 Description: USB webcam streaming server
  An simple and fast USB webcam MJPEG streaming server.
 
