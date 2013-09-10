@@ -6,7 +6,7 @@ clean:
 	rm -rf dists
 
 upload: dists/custom/Release.gpg dists/public.key 
-	s3cmd sync dists $(S3_LOCATION)
+	s3cmd sync --no-preserve dists $(S3_LOCATION)
 
 dists/public.key:
 	mkdir -p dists
