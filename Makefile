@@ -1,4 +1,4 @@
-S3_LOCATION="s3://debian-repos/qoSBonHMiqBNAAe5TNm3M0PuZaV91peH/"
+S3_LOCATION="s3://debs.ridgebit.net/qoSBonHMiqBNAAe5TNm3M0PuZaV91peH/"
 
 all: upload
 
